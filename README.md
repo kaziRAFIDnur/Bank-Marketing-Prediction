@@ -41,6 +41,3 @@ All models achieved approximately 90% accuracy. The **Decision Tree Classifier**
 *Note: Models still struggle with the minority class ('Yes') due to class imbalance (11.27% vs 88.73%).*
 
 
-## 👥 Authors
-- Ateaf Akram Chowdhury (ID: 23301335) 
-- Kazi Rafid Nur Ferdous (ID: 23301305)
